@@ -18,4 +18,4 @@
 - Resultados obtidos durante os testes de segurança.
 
 ## Imagem dos Resultados
-![Descrição da Imagem]()
+![Resultados](https://github.com/RafaelCamposs7/cibersecurity-desafio-pishing/blob/main/Captura%20de%20tela%202024-10-20%20104321.png)
